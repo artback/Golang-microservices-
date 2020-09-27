@@ -1,4 +1,4 @@
-module github.com/artback/kafka_microservices_go
+module https://github.com/artback/golang-microservices
 
 go 1.15
 
