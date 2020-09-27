@@ -1,4 +1,4 @@
-module github.com/artback/golang-microservices
+module github.com/artback/Golang-microservices-
 
 go 1.15
 

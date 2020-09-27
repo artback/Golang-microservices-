@@ -3,7 +3,7 @@ package main
 
 import (
 	"github.com/micro/go-micro"
-	proto "github.com/artback//greeter"
+	proto "github.com/artback/golang-microservices/greeter"
 	"golang.org/x/net/context"
 	"log"
 )
