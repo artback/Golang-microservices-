@@ -2,8 +2,8 @@
 package main
 
 import (
+	proto "github.com/artback/golang_microservices/greeter"
 	"github.com/micro/go-micro"
-	proto "github.com/artback/golang-microservices/greeter"
 	"golang.org/x/net/context"
 	"log"
 )
